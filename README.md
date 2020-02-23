@@ -1,3 +1,1 @@
-# Moodify
-
-Test
+# mood-project
